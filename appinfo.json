@@ -1,0 +1,22 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Pebble",
+    "longName": "Digital & Temp",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Digital",
+    "uuid": "03967fcd-2b90-4964-8c86-d838078f5da5",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
